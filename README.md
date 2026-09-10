@@ -36,7 +36,7 @@ app/
 
 Clone repository:
 ```text
-git clone <repository-url>
+git clone https://github.com/Hafidh-cloude/student-management-api.git
 cd student-management-api
 ```
 
